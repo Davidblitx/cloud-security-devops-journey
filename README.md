@@ -1,2 +1,4 @@
 # cloud-security-devops-journey
-My learning journey into Cloud Security and DevOps, starting from zero.
+I am Cloud Security and DevOps zero.
+This repository documents my daily learning, labs, and projects.  
+**Start Date:** January 10, 2026
